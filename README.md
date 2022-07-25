@@ -10,6 +10,12 @@ Win键+PrtSc键：直接生成全屏截图，自动命名为"屏幕截图(1).png
 
 exe程序阿里网盘链接 [Link](https://link.zhihu.com/?target=https%3A//www.aliyundrive.com/s/T5tVCXLjjjN)
 
+## 程序运行效果
+
+![重命名之前](https://raw.githubusercontent.com/zeyuanyin/PrtSc_Renamer/main/images/0.png)
+
+![重命名之后](https://raw.githubusercontent.com/zeyuanyin/PrtSc_Renamer/main/images/1.png)
+
 ## 参考
 
 [Rename-Jpgs-by-modification-time](https://github.com/M4hf0d/Rename-Jpgs-by-modification-time)
