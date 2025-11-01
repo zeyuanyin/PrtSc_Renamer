@@ -8,7 +8,10 @@ Win键+PrtSc键：直接生成全屏截图，自动命名为"屏幕截图(1).png
 
 如何让win10截屏图片的自动命名方式由“屏幕截图（xx）”改为日期？ - yzyuan的回答 - 知乎 [Link](https://www.zhihu.com/question/60356026/answer/2592205941)
 
-exe程序阿里网盘链接 [Link](https://link.zhihu.com/?target=https%3A//www.aliyundrive.com/s/T5tVCXLjjjN)
+exe程序阿里网盘链接 [Link](https://link.zhihu.com/?target=https%3A//www.aliyundrive.com/s/T5tVCXLjjjN)  (已失效)
+
+exe程序github链接:
+https://github.com/zeyuanyin/PrtSc_Renamer/releases/download/v0.0.1/PrtSc_Renamer.exe
 
 ## 程序运行效果
 
